@@ -1,4 +1,4 @@
-# DIP_seminar_week2
+# DIP_various_filter
 Digital Image Processing 2주차 내용을 python으로 구현한 code로, 다음과 같은 항목들을 구현하였음.
 
 1. Spatial domain filtering
